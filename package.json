@@ -1,0 +1,12 @@
+{
+  "name": "cypress-ui-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amalsgit/cypress-ui-automation.git",
+  "author": "amal jayaraj <amaljayaraj07@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "typescript": "^4.4.4"
+  }
+}
